@@ -2,4 +2,4 @@
 
 Básico demais
  
-<img src = "appMimo/img/Screenshot_20220626-182524.png">
+<img src = "img/Screenshot_20220626-182524.png">
