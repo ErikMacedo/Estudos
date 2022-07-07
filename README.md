@@ -1,6 +1,7 @@
 # Estudos
 
--teste!<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+-teste!
+<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           
           
 
