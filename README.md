@@ -29,7 +29,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/AloneInAbyss](https://github.com/adrianoarch">
+      <a href="https://github.com/adrianoarch">
         <img src="https://user-images.githubusercontent.com/105465397/177875129-710a8392-de8f-4a23-9977-ef66d47a9dfd.png" width="100px;" alt="Adriano de Oliveira"/><br>
         <sub>
           <b>Adriano de Oliveira</b>
